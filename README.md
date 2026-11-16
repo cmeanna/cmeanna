@@ -9,8 +9,8 @@ company repositories, so what you find here is side work and university projects
 Outside of that, I help run babyVC in the Netherlands, judge hackathons, draw, and
 edit video.
 
-**Currently:** finishing an MSc between Bocconi and Politecnico di Milano, writing a
-thesis on signal theory in AI-generated markets.
+**Currently:** finished an MSc between Bocconi and Politecnico di Milano, with a
+thesis on signal theory in AI-generated markets. Deepening my interest in robotics and micro-electronics. Currently building Sesame - more in the according repos below. 
 
 [LinkedIn](https://www.linkedin.com/in/anna-cameruccio)
 <!--
