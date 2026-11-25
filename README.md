@@ -1,9 +1,8 @@
-# Anna Cameruccio
+# Anna
 
-AI data scientist at Robeco, Rotterdam. Industrial engineer by training.
+AI data scientist, Netherlands. Industrial engineer by training.
 
-I build production AI systems end-to-end inside a regulated bank: data extraction
-pipelines, internally-hosted models, API services. Most of that work lives in private
+I build production AI systems end-to-end inside a regulated bank. Most of that work lives in private
 company repositories, so what you find here is side work and university projects.
 
 Outside of that, I help run babyVC in the Netherlands, judge hackathons, draw, and
